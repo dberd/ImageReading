@@ -1,0 +1,11 @@
+D:\ProgramFilesD\VS_repos\ImageReading\ImageReading\bin\Debug\ImageReading.exe.config
+D:\ProgramFilesD\VS_repos\ImageReading\ImageReading\bin\Debug\ImageReading.exe
+D:\ProgramFilesD\VS_repos\ImageReading\ImageReading\bin\Debug\ImageReading.pdb
+D:\ProgramFilesD\VS_repos\ImageReading\ImageReading\obj\Debug\ImageReading.csproj.AssemblyReference.cache
+D:\ProgramFilesD\VS_repos\ImageReading\ImageReading\obj\Debug\ImageReading.csproj.SuggestedBindingRedirects.cache
+D:\ProgramFilesD\VS_repos\ImageReading\ImageReading\obj\Debug\ImageReading.Form1.resources
+D:\ProgramFilesD\VS_repos\ImageReading\ImageReading\obj\Debug\ImageReading.Properties.Resources.resources
+D:\ProgramFilesD\VS_repos\ImageReading\ImageReading\obj\Debug\ImageReading.csproj.GenerateResource.cache
+D:\ProgramFilesD\VS_repos\ImageReading\ImageReading\obj\Debug\ImageReading.csproj.CoreCompileInputs.cache
+D:\ProgramFilesD\VS_repos\ImageReading\ImageReading\obj\Debug\ImageReading.exe
+D:\ProgramFilesD\VS_repos\ImageReading\ImageReading\obj\Debug\ImageReading.pdb
